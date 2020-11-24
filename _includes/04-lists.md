@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Big Daddy's List
+- Walk on Beach
+- Disco
+- Refactoring
